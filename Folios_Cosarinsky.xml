@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader> 
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="llc_exordio">Fragmento de El lazarillo de ciegos caminantes - Exordio</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <editor resp="digital">Sol Cosarinsky</editor>  
+             </titleStmt>
+            <publicationStmt>
+                <publisher>Humanidades Digitales 2025</publisher>
+                <availability>
+                    <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <bibl>
+                <title> El lazarillo de ciegos caminantes desde Buenos Aires, hasta Lima con sus itinerarios según la más puntual observación, con algunas noticias útiles a los Nuevos Comerciantes que tratan en Mulas ; y otras históricas / sacado de las memorias que hizo Don Alonso Carrió de la Vandera en este dilatado viaje....; por Don Calixto Bustamante Carlos Inca, alias Concolorcorvo natural de Cuzco.</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <publisher>Imprenta de la Rovada</publisher> 
+                <date>1773</date>
+                <pubPlace>Lima, Perú</pubPlace>
+                <objectIdentifier>   
+                    <institution>Biblioteca Nacional (España)</institution>
+                    <idno>sig. R/22795</idno>
+            
+                </objectIdentifier>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+        <text>
+            <body>
+<pb n="g6"/>
+
+<p>Hasta el referido sitio nombrado el <placeName key="saladilloderuydiaz">Saladillo de Ruy Díaz</placeName>, son comunes las postas de las dos <note xml:id="g6nota1">rutas</note> de <placeName key="potosi">Potosí</placeName>, y <placeName key="chile">Chile</placeName>, de que daré razón al fin de esta primera parte por no interrumpir mi viaje. La posta situada en el <placeName key="frailemuerto">Fraile Muerto</placeName>, con la distancia sólo de dos leguas, se ajustó a pedimento de la parte y con atención a ser un pueblecito en donde acaso será conveniente se detengan los pasajeros para habilitarse de algunos comestibles o descansar. Con más consideración se puso posta en el <placeName key="puestosdeferreyra">Paso de Ferreyra</placeName>, por donde regularmente se vadea el río y se ejecutará con más seguridad con caballos de refresco. A la Esquina de Castillo se habían cargado las aguas, por lo que no pudieron pasar por ella las carretas. Los correos y gentiles hombres a la ligera, pueden pasar en todo tiempo por la esquina que más le acomodase y, para mayor seguridad, tomarán razón de los colonos más inmediatos.</p>
+
+<p>Antes de pasar a la banda oriental del río, procurarán los caminantes a la ligera llevar alguna prevención de agua para una repentina necesidad, pues aunque esta el río próximo, sólo en las esquinas o pasos tiene fácil descenso, y sin embargo <pb n="g7"/> de que a la parte occidental y muy cerca del camino real se presentan algunas lagunas que forman las lluvias, no se puede sacar agua de ellas porque en toda la circunferencia, y en más de cuatro varas, hay grandísimos atolladeros que causan la multitud de ganados que beben en ellas. Todas las casas, aunque estén muy próximas al río, tienen sus pozos, sin más artificio que una excavación y un bajo pretil de adobes. Los cubos con que se saca el agua son de cuero crudo, que causa fastidio verlos, pero el agua es más fría y cristalina que la del río.</p>
+
+<p>Los <placeName key="puestosdeferreyra">Puestos de Ferreyra</placeName> se dicen así porque en un llano de bastante extensión tiene su casa y varios ranchos un hacendado de este apellido, llamado don Juan, a quien se estaba disputando la posesión. El sitio de Ampira, hacienda y tierras propias del sargento mayor don <persName key="juanantoniofernandez">Juan Antonio Fernández</persName>, tiene varios manantiales de agua perenne, dulce y cristalina, con muchos bosquecillos muy espesos y agradables a la vista, de que es maestro de postas su hijo don <persName key="juanjosefernandez">Juan José Fernández</persName>, con beneplácito de su padre. Tiene buenas casas y el sitio com-</p>
+
+</body>
+</text>
+</TEI>
